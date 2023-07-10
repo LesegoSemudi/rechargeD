@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010580786552",
+    "project_id": "recharge-direct-2f3b2",
+    "storage_bucket": "recharge-direct-2f3b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010580786552:android:b11be754a9442a89e30c8d",
+        "android_client_info": {
+          "package_name": "com.example.recharge_direct_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010580786552-kbivdnglni16376kgkfgknds0138iqr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAurOHgL1SXCTJ3yBfXU-bQyCP3bKfLhA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010580786552-kbivdnglni16376kgkfgknds0138iqr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
